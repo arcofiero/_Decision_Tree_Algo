@@ -1,0 +1,10 @@
+Name,Type_1,Type_2,HP,Attack,Defense,Speed,isLegendary,Color,Egg_Group_1,hasMegaEvolution
+Beedrill,Bug,Poison,65,90,40,75,No,Yellow,Bug,
+Pidgey,Normal,Flying,40,45,40,56,No,Brown,Flying,
+Pidgeotto,Normal,Flying,63,60,55,71,No,Brown,Flying,
+Sharpedo,Water,Dark,70,120,40,95,No,Blue,Water_2,
+Yveltal,Dark,Flying,126,131,95,99,Yes,Red,Undiscovered,
+Zygarde,Dragon,Ground,108,100,121,95,Yes,Green,Undiscovered,
+Diancie,Rock,Fairy,50,100,150,50,Yes,Pink,Undiscovered,
+Gyarados,Water,Flying,95,125,79,81,No,Blue,Water_2,
+Yanmega,Bug,Flying,86,76,86,95,No,Green,Bug,
